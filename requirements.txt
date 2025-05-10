@@ -1,3 +1,13 @@
+polars
+dotenv
+pandas
+requests
+bs4
+sqlalchemy
+sqlalchemy_utils
+scikit-learn
+matplotlib
+endplay
 fastapi
 pytest
 httpx
