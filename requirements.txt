@@ -2,7 +2,7 @@ polars
 dotenv
 pandas
 requests
-bs4
+beautifulsoup4
 sqlalchemy
 sqlalchemy_utils
 scikit-learn
